@@ -12,7 +12,6 @@ import java.io.Serializable;
  * @since 1.0
  */
 public class BaseVO implements Serializable {
-
     private static final long serialVersionUID = -431654657299507461L;
 
     public static final String SUCCESS = "0";
